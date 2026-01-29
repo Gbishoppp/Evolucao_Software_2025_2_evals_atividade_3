@@ -13,6 +13,7 @@
 | Gabriel Bispo Santana      | 202000012702 |
 | Pedro Savio Souza da Silva | 202100114142 |
 | Thiago Freire de Carvalho  | 202000013147 |
+| Davi Santos Freire         | 201700053088 |
 
 ---
 
